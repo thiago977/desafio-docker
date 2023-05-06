@@ -2,7 +2,7 @@
 Objetivo: criar a estrutura Docker (Dockerfile, etc) para uma aplicação em Node.js
 
 
-Istruções:
+Instruções:
 
 Comece com um arquivo Dockerfile: O Dockerfile é um arquivo de texto que descreve como construir uma imagem Docker. Escreva um Dockerfile que especifique a imagem base, os comandos para instalar as dependências, a cópia dos arquivos da aplicação para o contêiner e a configuração da porta.
 
